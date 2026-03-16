@@ -3,7 +3,13 @@ import streamlit as st
 # ==========================================
 # 1. CONFIGURACIÓN DE PÁGINA
 # ==========================================
-st.set_page_config(page_title="Elkarr AI zketa | Asier Dorronsoro", layout="centered")
+
+st.set_page_config(
+    page_title="Elkarr AI zketa | Asier Dorronsoro",
+    page_icon="🎙️",
+    layout="centered",
+    initial_sidebar_state="collapsed"
+)
 
 # ==========================================
 # 2. ESTILOS CSS Y CABECERA (NEÓN / DARK)

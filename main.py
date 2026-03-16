@@ -146,7 +146,7 @@ html_estilos_y_cabecera = """
 <div class="portfolio-wrapper">
     <div class="black-block">
         <div class="neon-title">Elkarr AI zketa 🎙️</div>
-        <div class="subtitle">5 preguntas, 5 respuestas.<br>Descubre a Asier Dorronsoro a través de gemelos digitales.</div>
+        <div class="subtitle">5 preguntas, 5 respuestas.<br>Descubre a Asier Dorronsoro a través de gemelos digitales desarrollados con Inteligencia Artificial</div>
     </div>
 </div>
 """
@@ -174,7 +174,7 @@ def reproductor_youtube(video_id):
 # ==========================================
 
 ID_VIDEO_1 = "dmhBFkPBHXc"
-ID_VIDEO_2 = ""
+ID_VIDEO_2 = "sPZ_rV2GNfI"
 ID_VIDEO_3 = ""
 ID_VIDEO_4 = ""
 ID_VIDEO_5 = ""
